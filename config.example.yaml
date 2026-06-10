@@ -1,7 +1,7 @@
 platform_url: ws://localhost:8080/ws/agent
 provider_token: ptok_REPLACE
 runtime: ollama
-runtime_url: http://localhost:11434
+runtime_url: http://localhost:11435  # Docker Compose Ollama (native Ollama uses 11434)
 models:
   - id: llama3.1:8b
     price_input_per_million: 0.50
