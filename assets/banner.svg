@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1660 400" fill="none">
+  <rect width="1660" height="400" fill="#0c0b09"/>
+  <rect x="0" y="398" width="1660" height="2" fill="#2a2620"/>
+  <defs>
+    <radialGradient id="glow" cx="78%" cy="50%" r="35%">
+      <stop offset="0%" stop-color="#d4a853" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#d4a853" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f0c56e"/>
+      <stop offset="100%" stop-color="#d4a853"/>
+    </linearGradient>
+  </defs>
+  <rect width="1660" height="400" fill="url(#glow)"/>
+  <text x="80" y="175" fill="#e8e4dc" font-family="Georgia, 'Times New Roman', serif" font-size="72" letter-spacing="-1">llm<tspan fill="#d4a853">.</tspan>exchange</text>
+  <text x="82" y="230" fill="#8a8278" font-family="ui-monospace, monospace" font-size="22" letter-spacing="0.12em">P2P LLM INFERENCE MARKETPLACE</text>
+  <g transform="translate(1280, 200)" fill="url(#accent)">
+    <path d="M-50 -38v56M-56 -38h6M-56 -38v10" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M50 -38v56M56 -38h-6M56 -38v10" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="0" cy="0" r="28" fill="currentColor" opacity="0.12"/>
+    <circle cx="0" cy="0" r="14" fill="currentColor"/>
+  </g>
+  <line x1="80" y1="280" x2="420" y2="280" stroke="#3d362c" stroke-width="1"/>
+  <text x="82" y="318" fill="#8a6b2e" font-family="ui-monospace, monospace" font-size="16">Run open models at home · Pay per token from anywhere</text>
+</svg>
