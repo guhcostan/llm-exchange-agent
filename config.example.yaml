@@ -1,3 +1,4 @@
+# llm.exchange provider agent — https://github.com/llm-exchange/agent
 platform_url: ws://localhost:8080/ws/agent
 provider_token: ptok_REPLACE
 runtime: ollama
