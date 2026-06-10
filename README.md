@@ -1,7 +1,7 @@
-<img src="assets/banner.svg" width="100%" alt="llm.exchange agent"/>
+<img src="assets/banner.png" width="100%" alt="llm.exchange agent"/>
 
 <p align="center">
-  <img src="assets/logo.svg" width="80" height="80" alt="llm.exchange logo"/>
+  <img src="assets/logo.png" width="80" height="80" alt="llm.exchange logo"/>
 </p>
 
 # llm.exchange agent
